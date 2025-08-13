@@ -1,0 +1,54 @@
+.banner {
+    background: url("https://it.lbl.gov/wp-content/uploads/sites/18/2024/03/hand-7014643-scaled.jpg") no-repeat center center;
+    background-size: cover;
+    padding-top: 20%;
+    padding-bottom: 20%;
+    color: #f6f6f7;
+}
+
+.lingkaran {
+    display: inline-block;
+    border-radius: 50%;
+    width: 150px;
+    margin: auto;
+    height: 150px;
+    color: #fff;
+    background-color: #1b1e50;
+}
+
+.lingkaran i {
+    position: relative;
+    top: 30px;
+}
+
+.crop-img {
+    object-fit: cover;
+}
+
+.tim img {
+    width: 250px;
+    border: 10px solid #cecbcb;
+}
+
+a.social {
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    color: #ebe3e3;
+    border-radius: 50%;
+    background-color: #181717;
+    line-height: 40px;
+}
+
+.client img {
+    height: auto;
+    max-height: 50px;
+}
+
+.kontak {
+    background: url("https://img.freepik.com/premium-vector/ai-artificial-intelligence-wave-lines-neural-network-purple-blue-green-light-isolated-black-background-vector-concept-technology_115579-1536.jpg") no-repeat center center;
+    background-size: cover;
+    padding-bottom: 20%;
+    padding-top: 20%;
+    color: #fdf8f8;
+}
